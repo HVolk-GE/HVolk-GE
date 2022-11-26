@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Horst Volk,
-- 👀 I’m interested in Software Development, Internet-Security!
+- 👋 Hi, 
+- I’m Horst Volk,
+- 👀 interested in Software Development and Internet-Security!
 
-- 🌱 I’m currently learning Fullstack development and CompTIA A+ -> Done 2022/11 !
+- 🌱 I’m currently learned Fullstack development add CompTIA A+ -> Done 2022/11/25 !
  
 - 👀 Now I'm ready/searching "new challenges" !
 
