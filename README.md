@@ -1,7 +1,7 @@
 - 👋 Hi, 
 - I’m Horst Volk,
 - 👀 interested in Software Development and Internet-Security!
-- 🌱 I’m currently learned Fullstack development add CompTIA A+ -> Done 2022/11/25 !
+- 🌱 learned Fullstack webdeveloper and CompTIA A+ !
 - 👀 Now I'm ready/searching "new challenges" !
 
 My Bio addtionals:
@@ -10,17 +10,17 @@ Afterwards I was for my caree "good to know", how works computers and how create
 
 Short overview: I have been able to gain experience in the following program-languages:
 - Basic (VB6 - VB2005 .Net incl. AutoIT),
-- bat, vbs etc.
+- bat, vbs, ps1 etc.
 - Bash (Linux Shell things),
 - Lotus-Notes (Domino) Basic (Javascript/Java),
 - Web (Javascript/PHP,MySQL etc.),
-- small C/C++ experiences, related on my Linux Systemadministrator work (Kernel new Compiling),
+- Small C/C++ experiences, related on my Linux Systemadministrator work (Kernel new Compiling),
 
 More or less -> NewBee away 2020 till now;
-- Python, ReactJS, VueJS, C#, C/C++
+- Python, ReactJS, VueJS, AngularJS, NestJS, C#, C/C++
 
 Actual I'm learning:
-- AngularJS, SymfonyPHP, LavarelPHP,
+- SymfonyPHP, LavarelPHP,
 
 Add Interested on:
 - Pentesting, IT-Securty, Linux Administration.
