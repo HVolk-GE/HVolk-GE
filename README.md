@@ -17,9 +17,10 @@ Short overview: I have been able to gain experience in the following program-lan
   customer specific Software Solutions (eg. Small Tools),
 - Web (Javascript/PHP,MySQL etc.),
 - Small C/C++ experiences, related on my Linux Systemadministrator work (Kernel new Compiling),
+- First small private Projects with ReactJS, VueJS, AngularJS (2022/2023).
 
 More or less -> NewBee away 2020 till 2023;
-- Python, ReactJS, VueJS, AngularJS, NestJS, C#, C/C++
+- Python, NestJS, C#, C/C++
 
 Actual I'm learning:
 - SymfonyPHP, LavarelPHP,
