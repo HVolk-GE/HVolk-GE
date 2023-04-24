@@ -17,10 +17,10 @@ Short overview: I have been able to gain experience in the following program-lan
   customer specific Software Solutions (eg. Small Tools),
 - Web (Javascript/PHP,MySQL etc.),
 - Small C/C++ experiences, related on my Linux Systemadministrator work (Kernel new Compiling),
-- First small private Projects with ReactJS, VueJS, AngularJS (2022/2023).
+- First small private Projects with C#, ReactJS, VueJS, AngularJS (2022/2023) (Most related to my latest Udemy Trainings).
 
-More or less -> NewBee away 2020 till 2023;
-- Python, NestJS, C#, C/C++
+More or less -> NewBee (no professonal knowledge at the Moment, but basics) 2023;
+- Python, NestJS, C/C++.
 
 Actual I'm learning:
 - SymfonyPHP, LavarelPHP,
@@ -29,7 +29,7 @@ Add Interested on:
 - Pentesting, IT-Securty, Linux Administration.
 
 My focus at the moment in to:
-Web development (eg. Angular / Lavarel).
+Web development (eg. AngularJS / LavarelPHP).
 
 That's it for the moment, you need more information about me and my work - don't hesitate and contact me !
 
