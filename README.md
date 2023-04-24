@@ -1,7 +1,7 @@
 - 👋 Hi, 
 - I’m Horst Volk,
 - 👀 interested in Software Development and Internet-Security!
-- 🌱 learned Fullstack Webdeveloper and CompTIA A+ at 2022 !
+- 🌱 learned Java Fullstack Webdeveloper and CompTIA A+ at 2022 !
 - 👀 Now I'm ready/searching "new challenges" !
 
 My Bio addtionals:
